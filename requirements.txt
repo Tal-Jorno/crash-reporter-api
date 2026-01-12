@@ -1,5 +1,4 @@
 flask
-pymongo
+pymongo[srv]
 dnspython
 gunicorn
-bson
