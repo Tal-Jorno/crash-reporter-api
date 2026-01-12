@@ -72,7 +72,11 @@ Each crash report is stored with the following structure:
 * `_id`: MongoDB unique identifier.
 
 ---
-
+### Deployment
+The API can be deployed to any cloud provider such as Render, Koyeb, AWS, or GCP. After deployment, verify your endpoints:
+* GET /health
+* GET /admin
+* 
 ## ⚙️ Running Locally
 
 ### Requirements
@@ -85,11 +89,7 @@ Each crash report is stored with the following structure:
 pip install -r requirements.txt
 
 ### Run the server
-```bash
 export MONGO_URI="mongodb+srv://<user>:<password>@<cluster>/<db>"
 python app.py
 
-### Deployment
-The API can be deployed to any cloud provider such as Render, Koyeb, AWS, or GCP. After deployment, verify your endpoints:
-* GET /health
-* GET /admin
+
