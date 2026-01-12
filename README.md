@@ -73,7 +73,7 @@ Each crash report is stored with the following structure:
 
 
 ### Dashbord biew
-![View](crash-reporter-api/images/screenshots/admin dashbord.png)
+![View](images/screenshots/admin dashbord.png)
 ---
 ### Deployment
 The API can be deployed to any cloud provider such as Render, Koyeb, AWS, or GCP. After deployment, verify your endpoints:
