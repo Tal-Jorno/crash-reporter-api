@@ -73,7 +73,8 @@ Each crash report is stored with the following structure:
 
 
 ### Dashbord View
-![Admin Dashboard](images/admin-dashboard.png)
+![Admin Dashboard](images/admin-dashbord.png)
+
 
 ---
 ### Deployment
