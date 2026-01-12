@@ -72,7 +72,7 @@ Each crash report is stored with the following structure:
 * `_id`: MongoDB unique identifier.
 
 
-### 🔐 Login Screen
+### Dashbord biew
 ![View](crash-reporter-api/images/screenshots/admin dashbord.png)
 ---
 ### Deployment
